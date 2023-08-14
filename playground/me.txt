@@ -1,3 +1,0 @@
-Name: Venkatesh B
-Skills: HTML, CSS, JAVASCRIPT, JAVA, GIT
-Email: venky2877@gmail.com
